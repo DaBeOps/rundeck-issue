@@ -1,0 +1,12 @@
+skills-dawan-fr:
+  description: docker node
+  hostname: 176.31.0.243
+  nodename: skills-dawan-fr
+  tags: 'docker,node,ssh,skills'
+  username: root
+  ssh-authentication: privateKey
+  ssh-config-MaxAuthTries: 3
+  ssh-connection-timeout: 15
+  ssh-command-timeout: 2
+  # ssh-key-storage-path: keys/projet/dawan/common.pem
+  ssh-keypath: .ssh/dawan
